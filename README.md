@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Fanny!
+
+I'm currently working as a web developer and learning about React.
+
+I'm passionate about accessibility and sustainability. 
+
+When I am not coding, I am usually exploring outdoors 🌲
 
 <!--
 **fannysofia/fannysofia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
