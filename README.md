@@ -4,6 +4,8 @@ I'm currently working as a web developer and learning about React.
 
 I'm passionate about accessibility and sustainability. 
 
+See my formal CV [here](https://fannysofia.github.io/cv/).
+
 When I am not coding, I am usually exploring outdoors 🌲
 
 <!--
